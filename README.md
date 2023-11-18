@@ -14,12 +14,12 @@ The primary objective of this initiative is to provide recommendations for an op
 
 </li><li> Data Cleaning and Wrangling FLow 
  <p>
-<img align="center" src="image/flow_wrangling.png" width="300" height="100" />
+<img align="center" src="image/flow_wrangling.png" width="500" height="400" />
 </p>
 
 </li><li> Data Survey
  <p>
-<img align="center" src="image/mockup.png" width="300" height="100" />
+<img align="center" src="image/mockup.png" width="500" height="300" />
 </p>
 
 
