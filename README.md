@@ -23,3 +23,28 @@ The primary objective of this initiative is to provide recommendations for an op
 </p>
 
 
+# Revenue Growth Simulation and Recommendation Optimization
+
+## Recommendation from Linear Regression:
+- **Price:** Rp. 1,750,000
+- **Form Product:** Applied
+- **Skill:** Data Science
+
+## Optimization Results:
+- **Optimized Price:** Rp. 1,750,000
+- **Optimized Revenue:** Rp. 29,779.86
+
+## Revenue Growth Simulation for 3 Months
+
+### Assumptions:
+- Monthly Revenue: Rp. 100,000,000
+- Target Growth Rate: 30%
+
+### Simulation Results:
+- Initial Monthly Revenue after 15% decline: Rp. 85,000,000
+- Expected Monthly Revenue after 3 months: Rp. [Calculated Value]
+
+### Evaluation:
+- **Congrats:** Simulation achieves the target if the expected revenue after 3 months is greater than or equal to 130% of the initial monthly revenue.
+
+**Note:** Adjust the calculated value based on your specific simulation results.
