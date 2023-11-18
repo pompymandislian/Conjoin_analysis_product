@@ -32,7 +32,7 @@ The primary objective of this initiative is to provide recommendations for an op
 
 ## Optimization Results:
 - **Optimized Price:** Rp. 1,750,000
-- **Optimized Revenue:** Rp. 29,779.86
+- **Optimized Revenue:** Rp. 29779.862425368792
 
 ## Revenue Growth Simulation for 3 Months
 
