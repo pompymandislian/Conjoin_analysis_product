@@ -12,8 +12,10 @@ Utilizing Conjont Analysis, the data team dissected the survey data to comprehen
 ## Objective:
 The primary objective of this initiative is to provide recommendations for an optimal combination of class attributes and pricing. The ultimate goal is to achieve a substantial 30% increase in revenue within the next two months. The company aims to respond strategically to market changes, enhance competitiveness, and ensure that the new class not only aligns with customer preferences but also contributes significantly to both short-term and long-term financial growth.
 
-## Flow Wrangling:
-<a href="https://drive.google.com/uc?id=1ZsxEWakxcEbsBInZSC5qm8AM0uyN5Dtv/"> img src </a>
+</li><li> Main Workflow 
+ <p>
+<img align="center" src="Image/main.png" width="500" height="150" />
+</p>
 
 
 # 
